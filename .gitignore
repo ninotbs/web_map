@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.so
+
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+.installed.cfg
+*.egg
+dist/
+build/
+*.whl
+
+# Environments
+.env
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
